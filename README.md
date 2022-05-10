@@ -16,7 +16,7 @@ Dividiré las políticas, guías, procesos bajo la jerarquía siguiente:
 - Gestión de la Continuidad
 - Auditoría Interna (por confirmar)
 
-Por favor, tener en cuenta que la forma de distribuir los documentos presentada en este proyecto es de manera genérica. Adecuar de acuerdo a sus necesidades.
+Por favor, tener en cuenta que la forma de distribuir los documentos presentada en este proyecto es de manera genérica. Ajuste de acuerdo a sus necesidades.
 
 ## Fuentes importantes
 
