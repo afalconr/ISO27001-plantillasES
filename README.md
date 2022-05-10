@@ -1,6 +1,6 @@
 # ISO27001-plantillasES
 
-## _Si te gusta el proyecto, ¿me compras un cafe?_
+## _Si te gusta el proyecto, ¿me compras un café?_
 
 [Regálame un café aquí☕](https://www.buymeacoffee.com/ancashino)
 
