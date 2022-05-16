@@ -1,8 +1,8 @@
 # ISO27001-plantillasES
 
-## _Si te gusta el proyecto, ¿me compras un café?_
+## _Si te gusta el proyecto, ¿me compras un café ☕?_ 
+<a href="https://www.buymeacoffee.com/ancashino" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-[Regálame un café aquí☕](https://www.buymeacoffee.com/ancashino)
 
 El proyecto se abre a la comunidad latinoamericana y de habla hispana. Es una colección personal de mis trabajos y proyectos a lo largo de mi corta carrera como consultor IT bajo la ISO 27001.
 
